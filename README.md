@@ -16,7 +16,7 @@ run this command in the command line:
 ```
 mvn spring-boot:run
 ```
-For database open : [http://localhost:8080/twitter-ui/](http://localhost:8080/movie-ui/)
+For database open : [http://localhost:8080/twitter-ui/](http://localhost:8080/twitter-ui/)
 
 ## Results
 1. Databases:

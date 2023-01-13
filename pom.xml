@@ -9,9 +9,9 @@
         <relativePath/>
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>movie-app</artifactId>
+    <artifactId>twitter-app</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>movie-app</name>
+    <name>twitter-app</name>
     <description>Spring Boot JPA + H2 database</description>
 
     <properties>
