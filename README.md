@@ -33,10 +33,12 @@ For database open : [http://localhost:8080/twitter-ui/](http://localhost:8080/tw
    
    2. Like Tweet:
    ![img_4.png](img_4.png)
+   
    ![img_5.png](img_5.png)
 
    3. Dislike Tweet:
    ![img_6.png](img_6.png)
+   
    ![img_7.png](img_7.png)   
 
    4. Get Details:
@@ -44,4 +46,5 @@ For database open : [http://localhost:8080/twitter-ui/](http://localhost:8080/tw
    
    5. Get All Tweets:
    ![img_9.png](img_9.png)
+   
    ![img_10.png](img_10.png)
