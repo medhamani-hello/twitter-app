@@ -19,32 +19,33 @@ mvn spring-boot:run
 For database open : [http://localhost:8080/twitter-ui/](http://localhost:8080/twitter-ui/)
 
 ## Results
-1. Databases:
+Databases:
+
    ![img.png](img.png)
 
    ![img_1.png](img_1.png)
 
    ![img_2.png](img_2.png)   
 
-2. Output:
+Output:
    
-   1. Add Tweet:
+   Add Tweet:
    ![img_3.png](img_3.png)
    
-   2. Like Tweet:
+   Like Tweet:
    ![img_4.png](img_4.png)
    
    ![img_5.png](img_5.png)
 
-   3. Dislike Tweet:
+   Dislike Tweet:
    ![img_6.png](img_6.png)
    
    ![img_7.png](img_7.png)   
 
-   4. Get Details:
+   Get Details:
    ![img_8.png](img_8.png)
    
-   5. Get All Tweets:
+   Get All Tweets:
    ![img_9.png](img_9.png)
    
    ![img_10.png](img_10.png)
