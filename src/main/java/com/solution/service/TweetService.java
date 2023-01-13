@@ -1,4 +1,4 @@
-package com.solution.Service;
+package com.solution.service;
 
 import com.solution.dto.TweetDto;
 import com.solution.entity.response.LikeDetail;

@@ -1,7 +1,7 @@
 package com.solution.controller;
 
 
-import com.solution.Service.TweetService;
+import com.solution.service.TweetService;
 import com.solution.dto.TweetDto;
 import com.solution.entity.request.TweetInfo;
 import com.solution.entity.request.TweetRequest;
